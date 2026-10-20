@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HASNATMOHSIN
 - 👀 I’m interested in PROGRAMMING!
-- 🌱 I’m currently learning PYTHON.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
